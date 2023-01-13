@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770544390824",
+    "project_id": "installia-69978",
+    "storage_bucket": "installia-69978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770544390824:android:799b42204e7dc4c799a89d",
+        "android_client_info": {
+          "package_name": "com.org.flutter.financeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770544390824-jkck374tlulfomgr1lhdkqrb0gru85hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJMxv0hZ55xOLmgvPizsDhlYK5WBh4rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770544390824-jkck374tlulfomgr1lhdkqrb0gru85hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
